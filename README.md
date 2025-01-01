@@ -12,7 +12,7 @@ A program that hides various media files such as:
 
 5- Hiding a RAR file within an image.
 
-*Adaptable for further customization based on specific needs.
+*Adaptable for further customization based on specific needs..
 
 ![Screenshot 2023-11-20 080629](https://github.com/SERVER0APK/Hiding-files-within-an-image/assets/151466539/b280e83e-b48f-4849-92c2-c7c28afc726f)
 
